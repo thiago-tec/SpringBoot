@@ -1,3 +1,4 @@
-tudo sobre a pratica com o Spring Boot vai estar aqui.
-
-esse treino foi feito junto com Maveni
+## Spring Boot
+___
+Aqui será postado tudo sobre as praticas com Spring Boot.
+* esse treino foi feito junto com Maveni
